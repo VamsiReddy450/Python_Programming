@@ -6,6 +6,8 @@ steps : 1.Collect the input number from the user
         2.Generate the numbers upto user given number
         3.decreating 1 value for every iteration and store it
         4.after generating all the numbers, print the output.
+        5.thanks for the code
+        
 '''	
 num = int(input("Enter a factorial number: "))
 
