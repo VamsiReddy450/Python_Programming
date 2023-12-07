@@ -1,6 +1,7 @@
 
 '''
 
+
 problem : math_table
 
 steps : 1.Collect the input table number from the user
